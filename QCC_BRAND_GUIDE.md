@@ -36,6 +36,43 @@ font-family: "Lato", sans-serif;
 
 ---
 
+## Secondary / Display Typeface: Unna
+
+> Unna is a refined serif with elegant contrast. Paired with Lato, it adds
+> editorial gravity and institutional warmth — a deliberate blend that keeps the
+> brand from reading as coldly technical.
+
+Use **Unna** for display headlines and marketing / editorial content — page
+titles, section headings, pull-quotes, and news article headlines — where a
+warmer, more institutional voice is called for. Keep body copy, UI, data, and
+labels in **Lato**.
+
+### Weights
+
+| Weight | Use Case |
+|--------|----------|
+| **Regular** (400) | headlines, section titles, pull-quotes |
+| **Bold** (700) | occasional emphasis in editorial headings |
+| *Italic* (400/700) | pull-quotes and editorial emphasis |
+
+### CSS Fallback
+
+```css
+font-family: "Unna", Georgia, serif;
+```
+
+### Pairing the two
+
+- **Lato (sans)** — primary. Body copy, navigation, UI, data, labels, and any
+  technical or interface context.
+- **Unna (serif)** — secondary display. Headlines and marketing / editorial
+  content, used to add institutional warmth.
+
+The intentional blend — clean sans for structure, warm serif for voice — reads
+institutional without feeling overly technical.
+
+---
+
 ## Color Palette
 
 ### Primary
