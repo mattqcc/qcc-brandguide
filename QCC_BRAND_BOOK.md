@@ -209,8 +209,8 @@ Marketing materials must never constitute an offer or general solicitation.
 
 ### Standing editorial rules
 
-- **Never reference Dmitry Green** on any QCC property — site, deck, news, bios,
-  or social.
+- **Never reference Dmitry Green or Anastasia Marchenkova** on any QCC
+  property: site, deck, news, bios, or social. Both are former affiliates.
 - Matt Cimaglia's outside advisory engagements are disclosed by him personally
   and must not be added to QCC materials.
 - Keep all firm materials vendor-neutral; do not favor specific hardware vendors.
