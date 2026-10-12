@@ -231,8 +231,13 @@ Marketing materials must never constitute an offer or general solicitation.
 | **Lettermark (QCC)** | Favicons, avatars, constrained spaces where the full logo is illegible. | [`QCC Icon Black.svg`](https://r2.quantumcoastcapital.com/QCC%20Icon%20Black.svg) |
 | **Lettermark, reversed** | Lettermark on dark grounds. | [`qcc-mark-white.svg`](https://r2.quantumcoastcapital.com/brand/ec218295f9165e10981885f5.svg) |
 
-All marks are **SVG** — they scale to any size without loss. Use the supplied
-files as-is. Never recreate, redraw, trace, or substitute the wordmark.
+Every mark is supplied as **SVG**, which scales to any size without loss and is
+best for print and design work. The primary logo, reversed logo, and black
+lettermark also come as high-resolution **PNG** with a transparent background
+(wordmarks 3000×400, lettermark 2000×2000) for slides, documents, and the web;
+both formats download from [quantumcoastcapital.com/brand](https://quantumcoastcapital.com/brand).
+Use the supplied files as-is. Never recreate, redraw, trace, or substitute the
+wordmark.
 
 ### Clear space
 
@@ -554,6 +559,15 @@ no authentication required. Right-click → Save, or `curl` directly.
 | Lettermark, black | `https://r2.quantumcoastcapital.com/QCC%20Icon%20Black.svg` |
 | Lettermark, white | `https://r2.quantumcoastcapital.com/brand/ec218295f9165e10981885f5.svg` |
 
+Download-ready copies (these force a download in the browser; the PNGs are
+transparent):
+
+| Asset | SVG | PNG |
+|-------|-----|-----|
+| Primary logo | `https://quantumcoastcapital.com/brand-assets/qcc-logo.svg` | `https://quantumcoastcapital.com/brand-assets/qcc-logo.png` (3000×400) |
+| Reversed logo | `https://quantumcoastcapital.com/brand-assets/qcc-logo-white.svg` | `https://quantumcoastcapital.com/brand-assets/qcc-logo-white.png` (3000×400) |
+| Lettermark, black | `https://quantumcoastcapital.com/brand-assets/qcc-lettermark.svg` | `https://quantumcoastcapital.com/brand-assets/qcc-lettermark.png` (2000×2000) |
+
 ### Other
 
 | Asset | Direct URL |
@@ -579,9 +593,12 @@ Contents: `QCC_BRAND_BOOK.md` (this file), `QCC_BRAND_GUIDE.md`,
 curl -O https://r2.quantumcoastcapital.com/QCC%20Logo.svg
 curl -O https://r2.quantumcoastcapital.com/QCC%20Logo%20White.svg
 curl -O https://r2.quantumcoastcapital.com/QCC%20Icon%20Black.svg
+curl -O https://quantumcoastcapital.com/brand-assets/qcc-logo.png
+curl -O https://quantumcoastcapital.com/brand-assets/qcc-logo-white.png
+curl -O https://quantumcoastcapital.com/brand-assets/qcc-lettermark.png
 ```
 
-> **Need a format not listed here** — EPS, PNG at specific dimensions, a
+> **Need a format not listed here** — EPS, PNG at other dimensions, a
 > one-color version, or a co-branded lockup? Request it at
 > info@QuantumCoastCapital.com rather than converting or recreating the mark.
 
